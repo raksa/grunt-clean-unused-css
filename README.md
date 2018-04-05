@@ -1,3 +1,5 @@
+## Clean the unused css
+
 Install grunt [grunt](https://gruntjs.com/) cli
 ````
 $ npm install -g grunt-cli
@@ -13,3 +15,5 @@ $ npm install
 
 $ grunt
 ````
+
+check in `dist` for final css

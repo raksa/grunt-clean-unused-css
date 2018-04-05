@@ -16,4 +16,4 @@ $ npm install
 $ grunt
 ````
 
-check in `dist` for final css
+after clean success check in `dist/` for final css

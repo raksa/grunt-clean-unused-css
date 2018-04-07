@@ -9,7 +9,7 @@ Test cleaning
 ````
 $ git clone https://github.com/raksa/Grunt-Clean-Unused-CSS.git
 
-$ cd Grunt-Clean-Unused-CSS
+$ cd grunt-clean-unused-css
 
 $ npm install
 
